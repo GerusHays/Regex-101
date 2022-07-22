@@ -1,10 +1,11 @@
-# Title (replace with your title)
+# What is a Regular Expression (regex)? 
 
-Introductory paragraph (replace this with your text)
+The purpose of this file is to introduce users to regex by breaking down an example of the regular expression. 
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We will be breaking down the regex for "Matching a URL" utilizing the following expression: 
+/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+You may select through the Table of Contents below detailing the different sections of the above regex!
 
 ## Table of Contents
 
